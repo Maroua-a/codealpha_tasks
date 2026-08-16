@@ -8,8 +8,8 @@ It was created for **Task 2 of the CodeAlpha Cyber Security Internship**.
 
 ## Contents
 
-* `Presentation\\\\\\\_Phishing\\\\\\\_Awareness.pptx` — editable presentation (with canva)
-* `Phishing\\\\\\\_Awareness\\\\\\\_Training.pdf` — PDF version + interactive quiz
+* `Presentation_Phishing_Awareness.pptx` — editable presentation (with canva)
+* `Phishing_Awareness_Training.pdf` — PDF version + interactive quiz
 * Video.mp4 — presentation video
 
 ## Topics Covered
