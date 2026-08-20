@@ -1,15 +1,5 @@
 # codealpha_tasks
 
-# CodeAlpha Cyber Security Internship
-
-## Student Information
-
-- **Name:** Kachroud Maroua
-- **Registration No.:** CA/DF1/224794
-- **Domain:** Cyber Security
-- **Batch:** August 2026
-- **Internship:** CodeAlpha
-
 ---
 
 ## About This Repository
